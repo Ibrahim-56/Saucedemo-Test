@@ -1,0 +1,15 @@
+{
+  "name": "saucedemo-playwright-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report",
+    "install:ci": "npm ci && npx playwright install --with-deps"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "typescript": "^5.0.0"
+  }
+}
