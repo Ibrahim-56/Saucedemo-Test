@@ -1,7 +1,7 @@
 # Saucedemo Playwright Test Suite
 
 ## Overview
-Automates the end-to-end happy-path for https://www.saucedemo.com:
+Automates the end-to-end for https://www.saucedemo.com:
 - login as `standard_user`
 - add 3 random items to cart
 - complete checkout
