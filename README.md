@@ -1,3 +1,5 @@
+[![CI](https://github.com/Ibrahim-56/Saucedemo-Test/actions/workflows/playwright.yml/badge.svg)](https://github.com/Ibrahim-56/Saucedemo-Test/actions/workflows/playwright.yml)
+
 # SauceDemo Playwright Test Suite
 
 End-to-end UI test for the public SauceDemo sample store using Playwright and TypeScript.
